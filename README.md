@@ -1,9 +1,9 @@
-Breast Cancer Classification – Orange Data Mining Project
+### Breast Cancer Classification – Orange Data Mining Project ###
 
 This project applies a complete data science workflow using Orange Data Mining to classify breast cancer tumors as benign or malignant.
 The workflow includes data exploration, preprocessing, model training and evaluation using multiple machine learning algorithms.
 
-🔍 Data Exploration
+## 🔍 Data Exploration ##
 
 Data exploration was performed using Orange visualization widgets such as:
 
@@ -11,7 +11,7 @@ Correlation Heat Map – to analyze relationships between numerical features
 
 Dataset inspection – to verify target column, data types and missing values
 
-Data Preparation
+## 🧹 Data Preparation ##
 
 The dataset was preprocessed with:
 
