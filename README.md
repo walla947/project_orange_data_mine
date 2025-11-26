@@ -23,7 +23,7 @@ Continuize (normalizing numerical variables for distance-based models)
 
 These steps ensured that all machine learning algorithms received data in the correct format.
 
-🤖 Machine Learning Models
+## 🤖 Machine Learning Models ##
 
 Three supervised classification algorithms were tested:
 
@@ -35,7 +35,7 @@ Decision Tree
 
 All models were evaluated using Cross Validation via the Test & Score widget.
 
-📊 Results
+## 📊 Results ## 
 
 Metrics collected:
 
